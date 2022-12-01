@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:youtube_diegoveloper_challenges/3D_cards_animation/3D_cards_home.dart';
-import 'package:youtube_diegoveloper_challenges/3D_cards_animation/cards.dart';
+import '3D_cards_home.dart';
+import '../models/cards.dart';
 
 class CardsDetails extends StatelessWidget {
   const CardsDetails({

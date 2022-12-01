@@ -4,7 +4,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 import '3D_cards_details.dart';
-import 'cards.dart';
+import '../models/cards.dart';
 
 class CardsHome extends StatelessWidget {
   const CardsHome({Key? key}) : super(key: key);
